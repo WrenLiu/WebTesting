@@ -1,6 +1,7 @@
 import java.util.*;
 //  https://www.nowcoder.com/ta/huawei  
 //  密码验证合格程序
+//  还有正则表达式方法
 
 public class Main {
     public static void main(String[] args) {
