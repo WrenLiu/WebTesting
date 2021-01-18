@@ -1,4 +1,3 @@
-package WebTest.Tecent;
 
 import java.util.Scanner;
 
